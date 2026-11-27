@@ -1,0 +1,149 @@
+# Site
+# repository: 你的 GitHub 仓库（形如 用户名/用户名.github.io）
+favicon: assets/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: 吴丽媛
+title: 执业律师｜企业法务与合规
+email: veevellben@foxmail.com
+phone: JG_swagtrumpbaby
+phone_title: 微信
+lang: zh-CN
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# About Section
+about_title: 个人简介
+about_content: |
+  **5 年以上法律实务经验**，执业律师，持法律职业资格 A 证、律师执业证与证券从业资格证，英语六级，C2 驾照，中共党员，可适应出差。
+
+  擅长企业法律风险前置管控、合规流程搭建、合同全生命周期管理与内部法律培训，前置识别经营活动中的法律隐患，年均起草、审核各类合同 200 余份，持续为省属投资国企、政府机关及院校等提供常态化合规保障。具备商事争议独立处置能力，可主导诉讼仲裁策略设计与执行，压降纠纷带来的经济与合规风险，擅长民商疑难、劳资、公司、股权、投资建设投标采购等纠纷。
+
+content:
+  - title: 核心优势
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: 资本运作与投融资
+        description: |
+          参与二级资本债券发行法律意见书（资质核查、募集文件合规审查、风险披露优化）、国企共益债引入尽调与方案设计（标的 1 亿元）、45 亿元项目交易文件起草，熟悉股权与债权融资结构、审批路径与信息披露要点。
+      - layout: left
+        title: 合同体系与内控
+        description: |
+          年审核合同 200 余份，主导标准文本开发与合同流程优化；审核规章制度与内控文件，出具书面法律意见，推动合规整改落地。
+      - layout: left
+        title: 集团客户服务
+        description: |
+          同时为国企、政府机关、学校、商管公司等不同单位提供常年法律顾问服务，负责合规、合同、制度建设、争议解决、法律培训及外聘专业机构管理的全流程闭环；为顾问单位建立合同全生命周期管理（起草—审核—履行跟踪—归档）、标准文本库与风险清单，重大项目介入率 94%。
+      - layout: left
+        title: 纠纷处理
+        description: |
+          擅长民商疑难、劳资、公司、股权、投资建设投标采购等纠纷处置。独立主办本金合计 6.7 亿元融资系列仲裁，为客户减损 2 亿元；主办 1.94 亿元土地行政纠纷，全额保住涉案土地相关权益；代理金融担保案件百余起，胜诉率 100%；统筹处置百余件劳资和侵权纠纷，胜诉率 97%，累计回款超 5000 万元。
+      - layout: left
+        title: 涉外与工具
+        description: |
+          英语六级，可阅读英文合同与技术资料；熟练使用 Office 及法律数据库，文书与数据整理效率高；持 C2 驾照，可适应一定量出差。
+
+  - title: 工作经历
+    layout: list
+    content:
+      - layout: right
+        title: 湖南湘和律师事务所
+        sub_title: 律师
+        caption: 2025.07 — 2026.10
+        description: |
+          - **纠纷处理：** 独立承办公司股权、金融、建设工程等诉讼与仲裁案件，制定策略、组织证据、出席庭审并跟进执行。
+          - **常法与合规：** 延续某市政府、某学校、某商管公司、某投资省属国企的常法与在外法务工作，审核合同、制度与内控流程，提供合规审查意见。
+      - layout: right
+        title: 广东德纳（长沙）律师事务所
+        sub_title: 律师
+        caption: 2022.10 — 2025.07
+        description: |
+          - **投融资与资本运作：** 参与债券发行、共益债与破产重整、重大项目交易等法律事务，起草法律意见书与交易文件，评估审批与合规风险。
+          - **合同与内控：** 起草、审核各类合同、协议与法律文书，年审核合同 200 余份；审核规章制度与内控文件，优化合同管理体系。
+          - **纠纷处理：** 独立承办公司股权、金融、建设工程、疑难民商事等诉讼与仲裁案件，制定策略、组织证据、出席庭审并跟进执行。
+      - layout: right
+        title: 广东德纳（长沙）律师事务所
+        sub_title: 实习律师
+        caption: 2021.07 — 2022.10
+        description: |
+          - **诉讼辅助：** 协助办理合同、劳动、股权等各类诉讼案件，完成立案、阅卷、证据整理与文书初稿起草。
+          - **企业法务：** 协助处理合同审核、制度完善与日常法律咨询。
+
+  - title: 代表项目与案例
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: 某农村商业银行二级资本债券发行
+        caption: 项目组成员 · 2023.09
+        description: |
+          核查发行人资质、审查募集文件合规性，与审计、评级机构协作优化风险披露条款，出具法律意见书，债券顺利发行。
+      - layout: left
+        title: 某建筑国企商业步行街共益债务引入
+        caption: 尽调负责人之一 · 标的 1 亿元
+        description: |
+          开展尽职调查，设计"共益债 + 资产盘活"方案并推动法院采纳，形成可复制的困境资产处置路径。
+      - layout: left
+        title: 祁阳某文旅地产项目法律论证
+        caption: 项目组成员 · 标的 45 亿元
+        description: |
+          组织专家出具法律意见，解决土地权属与政策衔接问题，起草交易文件并预设审批风险应对路径。
+      - layout: left
+        title: 教育地产集团融资租赁仲裁案
+        caption: 代理被申请人 · 标的 7 亿元
+        description: |
+          主张合同名为融资租赁、实为借贷，组建团队检索同类判例，为客户减损 2 亿元。
+      - layout: left
+        title: 浦发银行金融借款诉讼
+        caption: 代理银行 · 多起
+        description: |
+          批量代理房贷与经营贷纠纷，胜诉率 100%，回款率高于同类案件平均水平。
+
+  - title: 教育背景
+    layout: list
+    content:
+      - layout: top-right
+        title: 广西大学（211 / 双一流）
+        sub_title: 法学 · 本科（全日制）
+        caption: 2017.09 — 2021.06
+        description: |
+          英语六级（CET-6）｜普通话二级甲等｜在校期间获国家励志奖学金、校级优秀团员
+
+  - title: 资质证书与专业技能
+    layout: text
+    content: |
+      - **资格证书：** 法律职业资格证书（A 证）｜律师执业证｜证券从业资格证｜CET-6｜普通话二级甲等｜MS Office 高级应用二级｜C2 驾照
+      - **专业技能：** 合同体系与内控审核｜投融资与资本运作法律事务｜法律意见书与交易文件起草｜诉讼仲裁主办｜合规审查与风险评估｜英文合同阅读｜跨机构协作｜可出差
+      - **工具：** MS Office 高级应用｜Alpha / 威科先行 / 北大法宝等法律数据库｜PS / PR 基础
+
+  - title: 荣誉与其他
+    layout: text
+    content: |
+      - 2024 长沙市律协"菁英班"学员（演讲项目团体三等奖）
+      - 2021 广西大学优秀团员
+      - 2019、2020 国家励志奖学金
+      - 2019 微视频大赛暨优秀调研报告二等奖
+      - 大学生创新创业训练计划省级优秀奖、互联网+校级银奖
+
+# Footer
+footer_show_references: false
+
+# Build settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
