@@ -52,14 +52,14 @@ content:
   - title: 工作经历
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: 湖南湘和律师事务所
         sub_title: 律师
         caption: 2025.07 — 2026.10
         description: |
           - **纠纷处理：** 独立承办公司股权、金融、建设工程等诉讼与仲裁案件，制定策略、组织证据、出席庭审并跟进执行。
           - **常法与合规：** 延续某市政府、某学校、某商管公司、某投资省属国企的常法与在外法务工作，审核合同、制度与内控流程，提供合规审查意见。
-      - layout: right
+      - layout: left
         title: 广东德纳（长沙）律师事务所
         sub_title: 律师
         caption: 2022.10 — 2025.07
@@ -67,7 +67,7 @@ content:
           - **投融资与资本运作：** 参与债券发行、共益债与破产重整、重大项目交易等法律事务，起草法律意见书与交易文件，评估审批与合规风险。
           - **合同与内控：** 起草、审核各类合同、协议与法律文书，年审核合同 200 余份；审核规章制度与内控文件，优化合同管理体系。
           - **纠纷处理：** 独立承办公司股权、金融、建设工程、疑难民商事等诉讼与仲裁案件，制定策略、组织证据、出席庭审并跟进执行。
-      - layout: right
+      - layout: left
         title: 广东德纳（长沙）律师事务所
         sub_title: 实习律师
         caption: 2021.07 — 2022.10
@@ -108,7 +108,7 @@ content:
   - title: 教育背景
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: 广西大学（211 / 双一流）
         sub_title: 法学 · 本科（全日制）
         caption: 2017.09 — 2021.06
