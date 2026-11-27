@@ -4,7 +4,7 @@
 
 @import 'modern-resume-theme';
 
-/* ---------- 中文排版微调 ---------- */
+/* ---------- 中文排版微调（主题基准：html 10px，1rem = 10px） ---------- */
 $cjk-fonts: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans SC",
             "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
 
@@ -19,30 +19,40 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 3rem;
-  letter-spacing: 0.1em;
+  font-size: 4.2rem;
+  letter-spacing: 0.08em;
 }
 
 h2 {
-  font-size: 1.4rem;
-  letter-spacing: 0.04em;
+  font-size: 2.2rem;
+  letter-spacing: 0.03em;
 }
 
 h3 {
-  font-size: 1.7rem;
+  font-size: 2.9rem;
   letter-spacing: 0.08em;
   padding-bottom: 8px;
   margin-bottom: 28px;
 }
 
-h4 {
-  font-size: 1.05rem;
-  line-height: 1.6;
+/* 左栏：条目标题 / 单位 / 时间 */
+.layout .details h4 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.35;
 }
 
 .layout .details p {
-  line-height: 1.6;
-  font-size: 0.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* 正文段落与列表：中文需要更松的行距 */
+.layout .content p,
+.layout .content li,
+.intro-container p {
+  line-height: 1.9;
 }
 
 /* 中文名称较长，左栏加宽到 1/3，正文 2/3 */
@@ -56,13 +66,8 @@ h4 {
   }
 }
 
-.layout .content p,
-.layout .content li {
-  line-height: 1.85;
-}
-
 @media print {
-  body { font-size: 0.85rem; }
-  h1 { font-size: 2.2rem; }
-  h3 { font-size: 1.4rem; margin-bottom: 16px; }
+  body { line-height: 1.6; }
+  h1 { font-size: 3rem; }
+  h3 { font-size: 2rem; margin-bottom: 14px; }
 }
